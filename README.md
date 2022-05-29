@@ -6,7 +6,7 @@ Neo DS is a Vulkan DSI/DS (at least it will be) emulator with support for GB, GB
 --Done <br>
 
 --To Do
-  -Main Interface for going through ROMs and playing games. Will be based off the DS menu
+  - Main Interface for going through ROMs and playing games. Will be based off the DS menu
 
   -Main and secondary display. Main Display would be used for input polling and act as the bottom screen in DS/DSI mode.
   -Hardware layer for managing system camera, system clock, system microphone, link cable, gyro-carts, infered-carts, other hardware
