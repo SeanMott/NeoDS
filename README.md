@@ -32,6 +32,9 @@ Neo DS is a Vulkan DSI/DS (at least it will be) emulator with support for GB, GB
   - Save states
   - Speed up
 
+  - Merge the GB and GBA emulators togeather
+  - Merge the DS and DSI emulators togeather
+
 # GB (Color)
 
 --Done
